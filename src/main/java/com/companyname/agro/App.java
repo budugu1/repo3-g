@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Poll Scm updated" );
+        System.out.println( "github hook trigger gitscm polling updated" );
     }
 }
